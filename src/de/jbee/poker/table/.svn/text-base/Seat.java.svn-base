@@ -1,0 +1,10 @@
+package de.meps.table;
+
+import de.meps.player.Player;
+
+public interface Seat {
+
+	public Table getTable();
+
+	public Player getPlayer();
+}

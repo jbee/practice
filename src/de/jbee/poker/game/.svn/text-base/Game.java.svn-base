@@ -1,0 +1,11 @@
+package de.meps.game;
+
+import de.meps.board.Board;
+
+public interface Game {
+
+	Step getRound();
+
+	Board getBoard();
+
+}

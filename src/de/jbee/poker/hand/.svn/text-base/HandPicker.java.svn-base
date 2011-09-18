@@ -1,0 +1,8 @@
+package de.meps.hand;
+
+import de.meps.card.CardSet;
+
+public interface HandPicker {
+
+	public CardSet pickHandCards(CardSet from);
+}
