@@ -1,5 +1,0 @@
-package de.meps.card.deck;
-
-public interface Pile {
-
-}

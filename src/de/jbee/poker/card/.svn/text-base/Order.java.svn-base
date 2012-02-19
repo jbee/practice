@@ -1,6 +1,0 @@
-package de.meps.card;
-
-public enum Order {
-
-	ASCENDING, DESCENDING
-}

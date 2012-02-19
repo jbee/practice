@@ -1,5 +1,0 @@
-package de.meps.table;
-
-public interface Table {
-
-}
